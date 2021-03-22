@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suzannedolin
-- 👀 I’m interested in CMS, E-commerce & Front-End Development
-- 🌱 I’m currently learning HTML/CSS
+- 👀 I’m interested in CMS, E-commerce & Front-End Development!
+- 🌱 I’m currently learning HTML/CSS.
 - 📫 Email me: suzannedolin@gmail.com
 
 <!---
