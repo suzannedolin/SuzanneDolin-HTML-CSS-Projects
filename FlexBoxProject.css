@@ -1,5 +1,3 @@
-/* Universal Styles */
-
 body {
   margin: 0px;
   background-color: WhiteSmoke;
@@ -24,6 +22,9 @@ h1 {
   background-color: SkyBlue;
   line-height: 100px;
   color: Khaki;
+  min-width: 200px;
+  max-width: 1000px;
+  display: center;
 }
 
 h2 {
@@ -83,6 +84,7 @@ h2 {
   display: inline-flex;
   background-color: Khaki;
   flex-grow: 2;
+  margin: 0 40px;
 }
 
 .reminders h3 {
